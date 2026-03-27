@@ -19,6 +19,8 @@ P = \frac{1}{n}.
 In particular, the apparent transition from $n$ to $n-1$ alternatives does not, by itself, constitute a reduction in uncertainty; it only does so when it introduces new information into the system.
 \end{theorem}
 
+You can see a demonstration and a better discuss of this teorem above in the .pdf.
+
 ## 🧪 Theoretical Foundation
 
 This repository validates the hypothesis through three main pillars of modern information science:
