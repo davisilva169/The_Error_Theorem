@@ -40,8 +40,6 @@ The goal of this repository is to make these abstract concepts tangible through:
 ## 🛠️ Tech Stack
 
 * **Python:** Core statistical engine.
-* **Manim / Matplotlib:** For mathematical animations and dynamic plotting.
-* **Streamlit:** (Planned) For a web-based interactive UI.
 
 ---
 Developed by [davisilva169](https://github.com/davisilva169)
