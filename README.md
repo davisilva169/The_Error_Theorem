@@ -13,9 +13,9 @@ The Error Theorem posits that the physical removal of an alternative in a multip
 In a multiple-choice question with $n$ equiprobable alternatives, the elimination of an option only alters the probability of success if that elimination is informative (i.e., it carries a correlation with the correct answer). 
 
 If the elimination occurs at random, or without any knowledge of which alternative is true, there is no real probabilistic gain: the total probability of success remains:
-\[
-P = \frac{1}{n}.
-\]
+
+$P = \frac{1}{n}$.
+
 In particular, the apparent transition from $n$ to $n-1$ alternatives does not, by itself, constitute a reduction in uncertainty; it only does so when it introduces new information into the system.
 \end{theorem}
 
