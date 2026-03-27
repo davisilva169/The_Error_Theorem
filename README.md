@@ -6,7 +6,7 @@ This project explores a fundamental principle of probability: that uncertainty i
 
 ## 📌 The Concept
 
-The Error Theorem posits that the physical removal of an alternative in a multiple-choice scenario only reduces uncertainty if the removal process is **informative**—meaning it carries a non-zero correlation with the correct answer.
+The Error Theorem posits that the physical removal of an alternative in a multiple-choice scenario only reduces uncertainty if the removal process is **informative** - meaning it carries a non-zero correlation with the correct answer.
 
 ### The Theorem
 \begin{theorem}[The Error Theorem]
